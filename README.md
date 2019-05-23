@@ -13,3 +13,5 @@ You can display the todolists in different order.here we display them in priorit
 
 ## Check and change a todo list
 <img src='images/change_todolist.gif'>
+
+
