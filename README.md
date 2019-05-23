@@ -16,7 +16,7 @@ You can display the todolists in different order.here we display them in priorit
 <img src='images/display.gif'>
 
 ## Check and change a todo list
-You can change any field of the existing todolist.
+You can change any field of the existing todolist by clicking on its title.
 <img src='images/change.gif'>
 
 
