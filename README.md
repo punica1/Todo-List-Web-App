@@ -13,6 +13,6 @@ You can display the todolists in different order.here we display them in priorit
 <img src='images/display.gif'>
 
 ## Check and change a todo list
-<img src='images/change_todolist.gif'>
+<img src='images/change.gif'>
 
 
